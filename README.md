@@ -5,4 +5,4 @@ My Private Kaggle Repository
 "https://www.kaggle.com/davids1992/speech-representation-and-data-exploration"
 
 2_Voice&Signal_Kaggle_Team_Blog
--BG Sound File Gathering Together with kdongha, Jinsu-L
+-BG Sound File Gathering Together with kdongha, [insu-L](https://github.com/Jinsu-L)
